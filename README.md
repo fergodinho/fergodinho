@@ -1,7 +1,7 @@
 # Hi  ( ͡~ ͜ʖ ͡°)
 
-<p> 📍 Brazil </p>
-<p> ⚡C++, C#, Html, CSS, JavaScript, Python, SQL</p>
+<p> 📍 Spain </p>
+<p> ⚡C++, C#, .Net, REST API</p>
 <p> 😌 She/Her </p>
 <br>
 
